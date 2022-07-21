@@ -4,6 +4,7 @@
 - CSVParser
 - MVVM with Clean Architecture
 - Coroutines
+- Kotlin Flow
 - Navigation Components
 - Hilt for Dependency Injection
 - Retrofit
